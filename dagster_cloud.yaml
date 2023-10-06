@@ -1,0 +1,4 @@
+locations:
+  - location_name: dagster-test
+    code_source:
+      package_name: my_dagster_project
